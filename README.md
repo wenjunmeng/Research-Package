@@ -21,13 +21,15 @@ Before running the scripts, ensure you have the following installed:
 - Python 3.x
 - Required Python libraries:
   ```bash
-pip install beautifulsoup4
+  pip install beautifulsoup4
   ```
+
 ### Running the Scripts
 
 To run the collection scripts, use the following command:
 ```bash
 python downloading_audio.py
+```
 ```
 ## Data Description
 
