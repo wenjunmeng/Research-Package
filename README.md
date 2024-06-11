@@ -22,7 +22,7 @@ Before running the scripts, ensure you have the following installed:
 - Required Python libraries:
   ```bash
 pip install beautifulsoup4
-
+  ```
 ### Running the Scripts
 
 To run the collection scripts, use the following command:
